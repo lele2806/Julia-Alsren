@@ -1,0 +1,25 @@
+header{
+    font-family: "Playpen Sans", cursive;
+ 
+} 
+
+p{
+    font-family: "Afacad Flux", sans-serif;
+}
+ 
+body{
+    background-color: rgb(241, 144, 91);
+}
+
+a{
+    color: rgb(157, 17, 17);
+}
+
+h5{
+    text-align: center;
+    background-color:  rgb(157, 17, 17);
+    color: rgb(252, 248, 248);
+    line-height: 3;
+    bottom: 0;
+    
+}
